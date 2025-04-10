@@ -1,0 +1,12 @@
+.checkboxContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.text{
+    font-size: 14px;
+    font-weight: 500;
+    color: #B1B9C3;
+}

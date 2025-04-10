@@ -1,0 +1,18 @@
+.aiSolutionOrganism{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+.aiSolutionOrganismContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 73px;
+}

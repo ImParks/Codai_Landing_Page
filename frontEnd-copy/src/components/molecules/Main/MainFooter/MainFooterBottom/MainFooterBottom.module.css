@@ -1,0 +1,30 @@
+.mainFooterOrganismsBottom {
+    margin-top: 82px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.mainFooterOrganismsBottom > * {
+    flex: 1 1 33.33%; /* 각 자식 아이템이 동일한 너비(3등분)를 가지도록 설정 */
+}
+
+.copyrightNotice {
+    display: flex;
+    justify-content: start;
+    color: #FFFFFF;
+}
+
+.mainFooterOrganismsBottomItem {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+
+.mainFooterOrganismsBottomSocial {
+    display: flex;
+    justify-content: flex-end;
+    gap: 24px;
+}
+

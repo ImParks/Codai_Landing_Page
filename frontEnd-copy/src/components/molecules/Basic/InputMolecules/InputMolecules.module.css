@@ -1,0 +1,47 @@
+.inputBox{
+    width: 100%;
+    height: 100%;
+
+}
+
+.inputContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 16px;
+    cursor: text;
+    height: 24px;
+}
+
+.focused{
+    border: 1px solid #338DFF;
+}
+
+.input::placeholder {
+    color: #929EB0;
+}
+
+.rightIcon {
+    margin-left: 16px;
+    height: 24px;
+    width: 24px;
+    flex-shrink: 0;
+    cursor: pointer;
+}
+.message{
+    margin-top: 8px;
+    color: #338DFF;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 12px;
+    text-align: left;
+}
+
+.imageContainer{
+    height: 24px;
+    width: 24px;
+}

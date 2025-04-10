@@ -1,0 +1,61 @@
+.mainLayout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: visible; /* 스크롤 영향을 받지 않고 콘텐츠 표시 */
+  }
+  
+  .mainLayoutContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .mainLayoutHeader {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+  }
+  
+  .mainLayoutHeaderInner {
+    width: 100%;
+    max-width: 1654px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+  }
+  
+  .mainLayoutBody {
+    width: 100%;
+    max-width: 1630px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 20px;
+    box-sizing: border-box;
+    margin-bottom: 106px;
+  }
+  
+  .mainLayoutFooter {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #1F2123;
+  }
+  
+  .mainLayoutFooterInner {
+    width: 100%;
+    max-width: 1654px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+  }

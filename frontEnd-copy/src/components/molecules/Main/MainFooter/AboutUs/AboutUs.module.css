@@ -1,0 +1,26 @@
+.aboutUs{
+    display: flex;
+    justify-content: space-between;
+    min-width: 920px;
+    max-width: 1760px;
+}
+
+.aboutUsLogo{
+    width: 246px;
+    height: 48px;
+
+}
+
+.aboutUsContent{
+    gap: 26px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.aboutUsContentItem{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+}

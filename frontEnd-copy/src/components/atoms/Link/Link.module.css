@@ -1,0 +1,52 @@
+.link{
+
+    cursor: pointer;
+    
+}
+
+.default{
+    font-family: Pretendard;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.default:hover{
+    color: #0070FF;
+}
+
+.find{
+    font-family: Pretendard;
+    color: #4C555E;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14px;
+}
+
+.find:hover{
+    color: #4C555E;
+    text-decoration: none
+}
+
+.item{
+    text-decoration: none;
+    white-space : nowrap;
+}
+
+.item:hover{
+    text-decoration: none;
+    white-space : nowrap;
+}
+
+
+.item.FFFFFF{
+    color: #FFFFFF;
+}
+
+.item.FFFFFF:hover{
+    color: #FFFFFF;
+}

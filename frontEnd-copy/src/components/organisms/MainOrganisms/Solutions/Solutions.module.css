@@ -1,0 +1,53 @@
+.Solutions{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 1654px;
+}
+
+.heroSectionOrganism{
+    margin-top: 225px;
+    display: flex;
+    justify-content: center;
+}
+
+.processFlowOrganism{
+    margin-top: 465px;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.featureComparisonOrganism{
+    width: 100%;
+    height: 100%;
+    margin-top: 465px;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.aiSolutionOrganism{
+    width: 100%;    
+    height: 100%;
+    margin-top: 285px;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.productScreenshotsOrganism{
+    margin-top: 415px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.ctaBannerOrganism{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    margin-top: 142px;
+}

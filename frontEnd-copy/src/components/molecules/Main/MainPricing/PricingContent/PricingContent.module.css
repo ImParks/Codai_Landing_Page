@@ -1,0 +1,14 @@
+.pricingContentItem{
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    }
+
+.pricingContentItemIcon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+}

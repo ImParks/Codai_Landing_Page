@@ -1,0 +1,47 @@
+.LinkItem{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mainHeaderItem{
+    color: #030812;
+
+}
+
+.default{
+    color: #030812;
+}
+.default:hover{
+    color: #0070FF;
+}
+
+.active{
+    color: #0070FF;
+}
+
+.mainHeaderItem:hover{
+    color: #0070FF;
+}
+
+.darkTheme{
+    color: #FFFFFF;
+}
+
+.darkTheme:hover{
+    color: #FFFFFF;
+}
+
+
+.free{
+    color: #767676;
+}
+
+.regular{
+    color: #0070FF;
+}
+
+.special{
+    color: #FFFFFF;
+}

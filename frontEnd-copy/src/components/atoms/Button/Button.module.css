@@ -1,0 +1,47 @@
+/* 기본 버튼 스타일 */
+.button {
+    border: none;
+    cursor: pointer;
+    font-family: Pretendard;
+    display: inline-flex;
+    padding: 0;
+    outline: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.button:focus{
+    outline: none;
+}
+/* 로그인/회원가입 버튼 스타일 */
+.login {
+    align-items: center;
+    justify-content: center;
+    background-color: #4C555E;
+    height: 56px;
+}
+
+.login:hover:not(:disabled) {
+    background-color: #4C555E;
+}
+
+.signup {
+    align-items: center;
+    justify-content: center;
+    background-color: #34A853;
+    color: white;
+    font-weight: 600;
+    width: 100%;
+}
+
+.signup:hover:not(:disabled) {
+    background-color: #2a8743;
+}
+
+
+/* 비활성화 상태 */
+.button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    background-color: gray;
+}

@@ -1,0 +1,167 @@
+{
+    "mainHeader" : {
+        "headerOrganisms" : {
+            "solution" : "솔루션 소개",
+            "pricePolicy" : "가격정책",
+            "userGuide" : "유저가이드",
+            "login" : "로그인",
+            "reservation" : "사전예약"
+        }
+    },
+    "mainFooter" : {
+        "footerOrganisms" : {
+            "aboutUs" : [
+                {
+                    "title" : "주소",
+                    "description" : "경기도 안양시 동안구 벌말로 66, B동 904호 (평촌하이필드지식산업센터)"
+                },  
+                {  
+                    "title" : "메일 ",
+                    "description" : "yesnet@yesneterp.com"
+                },
+                {
+                    "title" : "연락처",
+                    "description" : "070 8657 2080"
+                },
+                {
+                    "title" : "사업자등록번호",
+                    "description" : "581-88-03426"
+                },
+                {
+                    "title" : "통신판매업신고번호",
+                    "description" : "2025-안양동안-0026"
+                }
+            ],
+            "termsOfUse" : {
+                "title" : "이용약관"
+            },
+            "privacyPolicy" : {
+                "title" : "개인정보처리방침"
+            },
+            "refundPolicy" : {
+                "title" : "환불정책"
+            }
+        }   
+    },
+    "solutionsPage" : {
+        "title" : "코다이",
+        "heroSectionOrganism" : {
+            "title" : ["디지털 전환 시대를 위한", "혁신적인 기술"],
+            "description" : ["Connect Data", "For Artificial Intelligence, Provide Innovation"],
+            "button" : "Start Now!"
+        },
+        "processFlowOrganism" : {
+            "title" : ["데이터는 많은데", "통합이 안되니까"],
+            "description" : ["분산되어 있는 데이터를 통합하지 않으면 정확하고 빠른 경영적 판단이 어렵습니다."]
+        },
+        "featureComparisonOrganism" : {
+            "title" : ["왜 코다이일까요?"],
+            "description" : ["수많은 중소기업들이 말하는 문제, 이제 걱정마세요!","불필요한 과정은 덜고 핵심만 담은 혁신적인 솔루션으로 디지털 전환을 이뤄드립니다."]
+        },
+        "aiSolutionOrganism" : {
+            "description" : ["Let work more accurately, faster, and smarter","anytime, anywhere"]
+        },
+        "productScreenshotsOrganism" : {
+            "title" : "CoDAi, 쉽게 사용해보세요",
+            "description" : "번거롭기만 했던 데이터 변환? 이제 딱 4단계만 진행하면 됩니다!",  
+            "items" : [{
+                    "index" : "STEP 01",
+                    "title" : "변환할 데이터 파일 업로드",
+                    "description" : ["[Workspace : 데이터 변환 1. 파일 업로드]에서","파일 업로드 or API로 불러오기를 선택합니다."]
+                },{
+                    "index" : "STEP 02",
+                    "title" : "변환할 데이터 선택",
+                    "description" : ["[STEP 1]에서 불러온 파일에서","변환할 데이터 열을 선택합니다."]
+                },{
+                    "index" : "STEP 03",
+                    "title" : "기준코드 선택 및 변환",
+                    "description" : ["변환시 사용할 기준코드를 선택하면","앞서 선택한 데이터가 기준코드대로 변환됩니다."]
+                },{
+                    "index" : "STEP 04",
+                    "title" : "데이터 변환 완료 및 전송",
+                    "description" : ["결과를 보낼 ERP 시스템의 API를 선택하여","변환된 데이터를 전송하거나 다운로드 할 수 있습니다."]
+                }
+            ]
+        },
+        "ctaBannerOrganism" : {
+            "title" : "더 궁금한 내용이 있으신가요?",
+            "description" : "문의 남겨주시면 빠르게 도와드리겠습니다.",
+            "button" : ["문의하기","사전예약"]
+        }
+    },
+    "pricingPage": {
+        "title": "가격정책",
+        "pricingHeader": {
+            "title": "CoDAi 요금제",
+            "description": "우리 회사에 딱 맞는 플랜을 선택해 보세요."
+        },
+        "openEventBanner": {
+            "title": "코다이 사전예약 혜택",
+            "description": "가입비 무료 + 첫 3개월 10% 할인"
+        },
+        "pricingItem": {
+            "free": {
+                "title": "Free",
+                "description": ["기본적인 서비스를 이용해 보실 수 있습니다."],
+                "button": "무료로 시작하기"
+            },
+            "regular": {
+                "title": "Regular",
+                "description": ["가볍게 사용하실 기업에 적합합니다.", "(첫 결제 시 가입비 별도.)"],
+                "button": "Regular Plan으로 시작하기"
+            },
+            "special": {
+                "title": "Special",
+                "description": ["대부분의 ERP 시스템을 사용하는 기업에게 적합합니다.", "(첫 결제 시 가입비 별도.)"],
+                "button": "Special Plan으로 시작하기"
+            }
+        },
+        "restrictions": {
+            "membership": {
+                "title": "가입비",
+                "description": "원"
+            },
+            "subscription" : {
+                "title" : "원",
+                "description" : "/월"
+            },
+            "forms": {
+                "title": "사용 가능 양식",
+                "description": "개"
+            },
+            "formCode": {
+                "title": "양식 당 코드",
+                "description": "개"
+            },
+            "uploadLine": {
+                "title": "업로드 Line",
+                "description": "개"
+            },
+            "monthlyLine": {
+                "title": "월 사용 Line",
+                "description": "개"
+            },
+            "api": {
+                "title": "API 연결",
+                "description": ["가능", "불가능"]
+            }
+        },
+        "pricingOrganisms3" : {
+            "title" : "기업이신가요?",
+            "description" : "기업 전용 서비스가 필요하시다면 바로 문의하세요!",
+            "button" : "문의하기"
+        }
+    },
+    "userGuidePage" : {
+        "title" : "유저가이드",
+        "userGuideHerder" : {
+            "title" : "CoDAi 유저 가이드",
+            "description" : "코다이를 한층 더 편리하게 사용해 보세요"
+        },
+        "ServiceGuideSection" : {
+            "title" : "코다이에 대해 더욱 자세히 알고싶으신가요?",
+            "description" : "소개서 및 사용자 매뉴얼에서 자세한 내용을 확인하세요",
+            "button" : ["서비스 소개서","사용자 매뉴얼"]
+        }
+    }
+}

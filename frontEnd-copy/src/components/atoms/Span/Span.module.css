@@ -1,0 +1,103 @@
+.span{
+    font-family: Pretendard;
+    user-select: none;
+    letter-spacing: 0.5px;
+}
+
+.font-size-60px{
+    font-size: 60px;
+}
+.font-size-52px{
+    font-size: 52px;
+}
+.font-size-48px{
+    font-size: 48px;
+}
+.font-size-44px{
+    font-size: 44px;
+}
+.font-size-40px{
+    font-size: 40px;
+}
+
+.font-size-36px{
+    font-size: 36px;
+}
+
+.font-size-32px{
+    font-size: 32px;
+}
+
+.font-size-18px{
+    font-size: 18px;
+}
+
+.font-size-20px{
+    font-size: 20px;
+}
+.font-size-16px{
+    font-size: 16px;
+}   
+.font-size-14px{
+    font-size: 14px;
+}
+.font-size-12px{
+    font-size: 12px;
+}
+.font-size-10px{
+    font-size: 10px;
+}
+
+.font-weight-700{
+    font-weight: 700;
+}
+.font-weight-600{
+    font-weight: 600;
+}
+.font-weight-500{
+    font-weight: 500;
+}
+.font-weight-400{
+    font-weight: 400;
+}
+
+
+.line-height-140{
+    line-height: 140%;
+}
+
+.line-height-130{
+    line-height: 130%;
+}
+
+.line-height-120{
+    line-height: 120%;
+}
+.line-height-100{
+    line-height: 100%;
+}
+
+.line-height-24px{
+    line-height: 24px;
+}
+
+.line-height-14px{
+    line-height: 14px;
+}
+
+.letter-spacing-05px{
+    letter-spacing: 0.5px;
+}
+
+.text-align-center{
+    text-align: center;
+}
+
+.vertical-align-middle{
+    vertical-align: middle;
+}
+
+
+.white-space-nowrap{
+    white-space: nowrap;
+}

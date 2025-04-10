@@ -1,0 +1,89 @@
+.pricingPlans{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    
+}
+
+.item{
+    height: 460px;
+    width: 320px;
+    border-radius: 20px;
+    border: 1px solid #E5ECF3;
+    padding: 40px;
+    position: relative;
+}
+.item:hover{
+    border: 1px solid #0070FF;
+}
+
+.itemTitle{
+    display: flex;
+    align-items: center;
+    margin-left: 8px;
+    margin-top: 10px;
+    gap: 8px;
+}
+
+.itemPrice{
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    border-radius: 100px;
+    border: 1px solid #E5ECF3;
+}
+
+.monthlyFee{
+    margin-top: 18px;
+    display: flex;
+    align-items: flex-end;
+}
+.monthlyFee.free {
+    color: #000;
+}
+
+.monthlyFee.regular {
+    color:  #5CA3FF;
+}   
+
+.monthlyFee.special {
+    color: #0070FF;
+}
+
+.itemPriceDescription{
+    color: #767676;
+}
+
+.itemContents{
+    margin-top: 12px;
+
+}
+.itemPriceDescription{
+    height: 18px;
+    padding: 1px 0px;
+}
+.itemButton{
+    width: 320px;
+    height: 61px;
+    position: absolute;
+    bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+
+}
+
+.itemButton.free{
+    background-color: #F5F8FB;
+}
+
+.itemButton.regular{
+    background-color: #CCE2FF;
+}
+
+.itemButton.special{
+    background-color: #0070FF;
+}
+
+

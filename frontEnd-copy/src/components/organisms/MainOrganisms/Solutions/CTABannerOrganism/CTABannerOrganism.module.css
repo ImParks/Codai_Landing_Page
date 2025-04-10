@@ -1,0 +1,44 @@
+.ctaBannerOrganism{
+    display: flex;
+    margin-top: 158px;
+    height: 550px;
+    margin-bottom: 96px;
+}
+
+.ctaBannerOrganismText{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 12px;
+}
+
+.ctaBannerOrganismButtonContainer{
+    display: flex;
+    margin-top: 40px;
+    gap: 15px;
+}
+
+.ctaBannerOrganismButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 126px;
+    height: 58px;
+    border-radius: 12px;
+    
+}
+
+.ctaBannerOrganismLeftButton{
+    background-color: #28303F;
+}
+
+.ctaBannerOrganismRightButton{
+    background-color: #0070FF;
+}
+
+.ctaBannerOrganismImage{
+    margin-left: 166px;
+    margin-top: 5px;
+}
+

@@ -1,0 +1,51 @@
+{
+    "homePage" : {
+        "title" : "홈페이지"
+    },
+    "workspacePage" : {
+        "title" : "워크스페이스"
+    },
+    "conversionPage" : {
+        "title" : "변환"
+    },  
+    "codeManagementPage" : {
+        "title" : "코드관리"
+    },
+    "taskListPage" : {
+        "title" : "태스크리스트"
+    },
+    "sidebar":{
+        "Home": {
+            "text": "홈"
+        },
+        "Service":{
+            "title": "Service",
+            "Workspace":{
+                "text": "워크스페이스",
+                "items":{
+                    "conversion": "데이터 변환",
+                    "codeManagement": "기준코드관리",
+                    "taskList": "최근작업목록"
+                }
+            },
+            "APIManagement": {
+                "text": "API관리"
+            }
+        },
+        "Account":{
+            "title": "Account",
+            "Setting": {
+                "text": "설정"
+            },
+            "Product": {
+                "text": "프로덕트"
+            }
+        },
+        "Other":{
+            "title": "Other",
+            "Help": {
+                "text": "도움말"
+            }
+        }
+    }
+}

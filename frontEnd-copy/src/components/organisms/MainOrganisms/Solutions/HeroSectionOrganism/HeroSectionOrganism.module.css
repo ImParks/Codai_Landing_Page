@@ -1,0 +1,22 @@
+
+.heroSectionOrganism{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+
+
+}
+
+.heroSectionOrganismContent{
+    width: 594px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.heroSectionOrganismImage{
+    width:766px;
+    height: 480px;
+    justify-content: flex-end;
+}

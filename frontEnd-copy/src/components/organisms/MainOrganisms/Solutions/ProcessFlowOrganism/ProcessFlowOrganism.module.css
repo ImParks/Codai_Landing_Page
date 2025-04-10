@@ -1,0 +1,19 @@
+.processFlowOrganism{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.processFlowOrganismContent{
+    justify-content: flex-start;
+}
+.processFlowOrganismImage{
+    position: absolute;
+    right: 0; /* 오른쪽 정렬 */
+    top: 0;
+    height: 100%; /* 부모 높이 100% */
+    /* width는 이미지 자체 비율에 맞게 auto로 설정 */
+    width: auto;
+    z-index: -1;
+}

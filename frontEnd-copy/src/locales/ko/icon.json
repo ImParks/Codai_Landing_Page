@@ -1,0 +1,29 @@
+{
+    "social":{
+        "yesnetInstagram": "인스타그램",
+        "yesnetHome": "홈페이지",
+        "yesnetBlog": "블로그",
+        "yesnetYoutube": "유튜브"
+    },
+    "imgae":{
+        "Logo": "예스넷",
+        "Symbol": "예스넷 심볼",
+        "OpenEventBannerLogo": "코다이 사전예약 로고",
+        "CheckMark": "체크 마크",
+        "XMark": "X 마크"
+    },
+    "sidebar":{
+        "HomeOn": "홈",
+        "HomeOff": "홈",
+        "WorkspaceOn": "워크스페이스",
+        "WorkspaceOff": "워크스페이스",
+        "APIManagementOn": "API관리",
+        "APIManagementOff": "API관리",
+        "SettingOn": "설정",
+        "SettingOff": "설정",
+        "ProductOn": "프로덕트",
+        "ProductOff": "프로덕트",
+        "HelpOn": "도움말",
+        "HelpOff": "도움말"
+    }
+}

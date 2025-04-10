@@ -1,0 +1,42 @@
+.serviceGuideSectionContainer {
+    background-color: #F7F8FA;
+    border-radius: 16px;
+    display: flex;
+    width: 1240px;
+    height: 294px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.serviceGuideSectionTitleContainer{
+    margin-bottom: 12px;
+}
+
+.buttonContainer {
+    display: flex;
+    gap: 21px;
+    margin-top: 24px;
+}
+
+.service {
+    background-color: #2B2E30;
+    color: white;
+
+}
+
+.userGuide {
+    background-color: #0070FF;
+    color: white;
+}
+
+
+.serviceButton{
+    width: 183px;
+    height: 58px;
+    padding: 20px 32px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}

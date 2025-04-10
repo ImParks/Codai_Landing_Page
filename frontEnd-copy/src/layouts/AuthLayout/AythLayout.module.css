@@ -1,0 +1,11 @@
+.authLayout{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    max-height: 100vh;
+    margin: 0;
+    width: 100vw;
+    background-color: #FFFFFF;
+}

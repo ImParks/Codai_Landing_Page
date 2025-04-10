@@ -1,0 +1,59 @@
+.mainHeaderOrganisms{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+
+
+
+.mainHeaderOrganismsLogo{
+    flex:1;
+    height: 24px;
+    width: 90px;
+    align-items: center;
+    display: flex;
+    left: 20px;
+    justify-content: flex-start;
+}
+
+.mainHeaderOrganismsItems{
+    flex:1;
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.mainHeaderOrganismsItemsItem{
+    
+    margin: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 140%;
+    font-family: Pretendard;
+}
+
+
+.mainHeaderOrganismsLogin{
+    flex:1;
+    display: flex;
+    right: 20px;
+    justify-content: flex-end;
+}
+
+.loginItem{
+    width: 90px;
+    height: 37px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2123;
+    border-radius: 10px;
+    margin: 10px;
+    transition: background-color 0.5s ease; 
+}
+
+.loginItem:hover{
+    background-color: #0070FF;
+}

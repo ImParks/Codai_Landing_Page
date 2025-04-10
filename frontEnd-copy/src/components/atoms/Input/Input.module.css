@@ -1,0 +1,61 @@
+.input{
+    vertical-align: middle;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    padding: 0px;
+    flex: 1;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    color: #222B34;
+    width: 100%;
+}
+
+.input::-webkit-scrollbar {
+    display: none;
+    background-color: transparent;
+}
+
+
+
+.loginInput{
+    height: 20px;
+    border-radius: 6px;
+    border: none;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.checkbox{
+    width: 18px;
+    height: 18px;
+    margin: 3px 8px 3px 3px;
+}
+
+
+.input:focus{
+    outline: none;
+}
+
+.font-size-12{
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.font-size-14{
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.font-size-16{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+
+
+
+
+
+
